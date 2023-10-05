@@ -1,7 +1,2 @@
-# Tauri + Vanilla
-
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+# Emote Manager
+The project's aim is for the user to manage all emote files that're stored locally in one place, and for them to be able to copy/paste those emotes on any chat.
